@@ -2,4 +2,3 @@
 - 👀 I'm interested in programming bots (discord, telegram)
 - 🌱 I’m currently learning C\C++
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Питон головного мозга)
