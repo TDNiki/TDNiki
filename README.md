@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TDNiki or just Nikita
-- 👀 I'm interested in programming bots (discord, telegram)
-- 🌱 I’m currently learning C\C++
+- 👀 I'm interested in Data science 
+- 🌱 Im currently exploring the stack for web apps development.
 - 😄 Pronouns: he/him
