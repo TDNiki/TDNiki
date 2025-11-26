@@ -2,3 +2,4 @@
 - 👀 I'm interested in Data science 
 - 🌱 Im currently exploring the stack for web apps development.
 - 😄 Pronouns: he/him
+- Current Pet project: https://usurt-schedule.ru/
